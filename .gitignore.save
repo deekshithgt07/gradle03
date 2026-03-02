@@ -2,3 +2,5 @@ z.gradle/
 build/
 out/
 *.class
+^Exit
+
